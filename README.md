@@ -27,7 +27,7 @@ git clone $url
 ```
 
 ```
-cd design-storybook
+cd si-allo-barbylone
 ```
 
 ```
@@ -37,11 +37,12 @@ npm install
 ### Development Mode
 
 ```
-npm run start
+npm run dev
 ```
 
 Run the app in development mode.\
-Open [http://localhost:3000/](http://localhost:3000/) to view it in the browser.
+Open [http://localhost:3000/](http://localhost:3000/) to view it in the browser.\
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 ```
 npm run storybook
@@ -69,14 +70,25 @@ Your storybook is ready to be deployed.
 
 ## 🔨 Built with
 
+Nextjs - [documentation](https://nextjs.org/)
 Reactjs - [documentation](https://reactjs.org/)  
 Typescript - [documentation](https://www.typescriptlang.org/docs/)  
 Storybook - [documentation](https://storybook.js.org/docs/react/get-started/introduction)  
-Sass - [documentation](https://sass-lang.com/documentation/)  
+Sass - [documentation](https://sass-lang.com/documentation/)
+Classnames - [classnames](https://www.npmjs.com/package/classnames)
 
 ## 👥 Contributers
 
 Bastien Paquier - [bastien17-dev](https://github.com/bastien17-dev)  
+Quentin Trouvé - [quentintrouve](https://github.com/quentintrouve)
+Quentin Grancher - [quentingrchr](https://github.com/quentingrchr)
+- [RedaHamouche](https://github.com/RedaHamouche)
+- [hugoborini](https://github.com/hugoborini)
+- [berrichinawel](https://github.com/berrichinawel)
+- [ConstancePetillot](https://github.com/ConstancePetillot)
+- [thomasceglie](https://github.com/thomasceglie)
+- [klochette](https://github.com/klochette)
+- [Hgo0123](https://github.com/Hgo0123)
 
 
 
