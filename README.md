@@ -1,4 +1,4 @@
-# Allo Barbylone - streaming website
+# Allo Barbylone - Streaming Website
 
 ## 📖 Summary
 
