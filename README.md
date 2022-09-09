@@ -8,6 +8,8 @@
 
 **Allo Barbylone - Streaming Website** is a streaming website for movies and tv shows. It's a Next.js project bootstrapped with `create-next-app` and using TypeScript. It's deployed on Vercel Platform. All data was fetched with [themoviedb Api](https://www.themoviedb.org/documentation/api).
 
+Time to dev: **5 days**
+
 **Specials feature:** 
   - vocal search (only on Chrome) 
   - switcher dark / light mode
