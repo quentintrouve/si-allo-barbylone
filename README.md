@@ -81,7 +81,7 @@ Storybook - [documentation](https://storybook.js.org/docs/react/get-started/intr
 
 Sass - [documentation](https://sass-lang.com/documentation/)\
 Classnames - [classnames](https://www.npmjs.com/package/classnames)\
-and `css-modules`
+CSS Modules - [css modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet)
 
 ## 👥 Contributers
 
