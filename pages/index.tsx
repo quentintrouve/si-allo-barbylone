@@ -34,7 +34,6 @@ export default function Home({ data }) {
         userInput={userInput}
         queryMovies={movies}
         popularMovies={data}
-        type={"movie"}
       />
     </Layout>
   );
